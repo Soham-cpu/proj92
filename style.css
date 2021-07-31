@@ -1,0 +1,47 @@
+.body_background{
+    background:linear-gradient(#e32794 0%, #f5700a 100%);
+    text-align: center;
+}
+
+.login_div1{
+    background-color:rgb(38, 184, 221);
+    width :25%;
+    margin-top: 40px;
+    margin-left: 540px;
+    margin-bottom: 30px;
+    margin-right: 520px;
+    border-radius: 15px;
+}
+
+.login_div2{
+    background-color:rgb(38, 184, 221);
+    width :25%;
+    margin-left: 540px;
+    margin-bottom: 30px;
+    margin-right: 520px;
+    border-radius: 15px;
+}
+
+.body_background1{
+    background:linear-gradient(#4888f0 0%, #63e0aa 100%);
+    text-align: center;
+    
+}
+
+#sendQuestionButton{
+    margin-bottom: 455px;;
+}
+
+#player1_name , #player2_name{
+	display: inline-block;
+    margin-left: -1350px;
+}
+
+#output{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
